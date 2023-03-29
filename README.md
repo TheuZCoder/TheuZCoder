@@ -8,12 +8,6 @@
 </div>
 <br>
 
-- 👋 Hi, I’m @TheuZCoder
-- 👀 I’m interested in Python and JavaScript
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on all projects that a beginner can help
-- 📫 How to reach me? in my mail
-
 <div>
 <a href="https://www.twitch.tv/TheuuZ_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:matheusrdsilva1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
