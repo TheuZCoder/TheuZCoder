@@ -4,6 +4,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TheuZCoder&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="TheuZCoder github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheuZCoder&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+<br>
 
 - 👋 Hi, I’m @TheuZCoder
 - 👀 I’m interested in Python and JavaScript
@@ -34,12 +35,6 @@
 <br>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheuZCoder&theme=gotham)
-
-<div>
-<a href="https://github.com/TheuZCoder">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheuZCoder&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheuZCoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ![Snake animation](https://github.com/TheuZCoder/TheuZCoder/blob/output/github-contribution-grid-snake.svg)
  
