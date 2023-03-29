@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on all projects that a beginner can help
 - 📫 How to reach me? in my mail
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <div>
 <a href="https://github.com/TheuZCoder">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheuZCoder&layout=compact&langs_count=7&theme=dracula"/>
