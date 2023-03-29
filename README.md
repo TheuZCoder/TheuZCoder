@@ -34,7 +34,7 @@
 
 ![Snake animation](https://github.com/TheuZCoder/TheuZCoder/blob/output/github-contribution-grid-snake.svg)
  
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MthAlvarez&theme=gotham)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheuZCoder&theme=gotham)
   
 <!---
 TheuZCoder/TheuZCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
