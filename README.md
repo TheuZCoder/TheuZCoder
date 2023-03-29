@@ -36,7 +36,11 @@
 
 ![Snake animation](https://github.com/TheuZCoder/TheuZCoder/blob/output/github-contribution-grid-snake.svg)
  
-  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<br></div>
+ 
 <!---
 TheuZCoder/TheuZCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
