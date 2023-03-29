@@ -16,7 +16,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"> 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"> 
  </div> <br>
-
+<br>
 <div>
 <a href="https://github.com/TheuZCoder">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheuZCoder&layout=compact&langs_count=7&theme=dracula"/>
