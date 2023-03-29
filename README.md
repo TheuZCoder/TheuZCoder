@@ -26,6 +26,8 @@
  
 <br>
 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheuZCoder&theme=gotham)
+
 <div>
 <a href="https://github.com/TheuZCoder">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheuZCoder&layout=compact&langs_count=7&theme=dracula"/>
@@ -34,7 +36,6 @@
 
 ![Snake animation](https://github.com/TheuZCoder/TheuZCoder/blob/output/github-contribution-grid-snake.svg)
  
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheuZCoder&theme=gotham)
   
 <!---
 TheuZCoder/TheuZCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
