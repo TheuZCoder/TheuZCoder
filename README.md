@@ -10,6 +10,11 @@
 <a href="https://www.linkedin.com/in/matheus-silva-0b2798259" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Ferramentas e Tecnologias
+<div style="display: inline-block"> 
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</div> 
+
 ## Estou aprendendo
 <div style="display: inline-block"> 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40">
