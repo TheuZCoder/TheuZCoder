@@ -9,7 +9,7 @@
 
 <br>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheuZCoder&theme=gotham)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TheuZCoder Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TheuZCoder&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
 
 <br>
 
