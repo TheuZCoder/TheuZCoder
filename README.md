@@ -7,6 +7,19 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheuZCoder&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<!--START_SECTION:waka-->
+From: 10 July 2020 - To: 06 August 2022
+
+Total Time: 1,464 hrs 54 mins
+
+Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
+Markdown           132 hrs 33 mins >>-----------------------   08.43 %
+TeX                103 hrs 52 mins >>-----------------------   06.61 %
+HTML               94 hrs 48 mins  >>-----------------------   06.03 %
+Nim                64 hrs 31 mins  >------------------------   04.11 %
+Other              47 hrs 58 mins  >------------------------   03.05 %
+<!--END_SECTION:waka-->
+
 <br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TheuZCoder Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TheuZCoder&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
