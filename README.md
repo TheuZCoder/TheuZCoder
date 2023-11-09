@@ -23,6 +23,8 @@
 </div>
 
 ## Tools and Technologies
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <div style="display: inline-block"> 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div> 
