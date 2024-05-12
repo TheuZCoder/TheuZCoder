@@ -27,6 +27,7 @@
 <!--END_SECTION:waka-->
 <div style="display: inline-block"> 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </div> 
 
 ## I am learning
